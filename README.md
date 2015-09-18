@@ -10,5 +10,5 @@ These instructions allow the device to perform tasks.
 
 This code club is different to others you might have seen.
 
-Exception: You can talk about it
+Exception: You can talk about it!
 
