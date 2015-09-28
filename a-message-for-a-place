@@ -5,7 +5,20 @@ Let’s start with a test document
 2.	Right click the document Open With> Notepad
 3.	Type 
 Hello World
-4.	Save as hello world.html
+4.	Save as hello world.txt
+
+I've found windows likes to presume the application you want this document opened with. We need to define the editor as the application.
+
+Find helloWorld.txt
+
+What does it open with?
+
+Forcing notepad!
+
+Right click the file and open with Notepad
+
+Once you have it open. Save as helloWorld.html
+
 Hopefully in your new folder we will have two documents, one .txt and one .html
 
 If this is the case: Well done!
