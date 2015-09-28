@@ -1,0 +1,19 @@
+First file
+
+Let’s start with a test document 
+1.	Right click inside the folder and select New > Text Document
+2.	Right click the document Open With> Notepad
+3.	Type 
+Hello World
+4.	Save as hello world.html
+Hopefully in your new folder we will have two documents, one .txt and one .html
+
+If this is the case: Well done!
+ ;D
+
+Finally all we have to do is test your new html document by opening it with internet explorer.
+1.	Double click the folder on your desktop
+2.	Find the hello world.html file, then open with internet explorer
+3.	Your file should read in the browser.
+
+CONGRATULATIONS
